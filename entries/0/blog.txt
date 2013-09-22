@@ -1,0 +1,2 @@
+Welcome to this Kewl Blog
+Hi there. Not sure what to write here really. I'm starting to really really not like php, duh. I hope I don't have to use php ever but oh well. PHP is confusing and I also don't know what model view controller is all about. There are too many files! Hopefully I can get this homework done in time. This is my blog~ Signing out, dude.

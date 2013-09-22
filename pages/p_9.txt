@@ -1,0 +1,9 @@
+Rebel Base
+./index.php?c=main&amp;p=3&amp;v=display
+Master of Trivs
+./index.php?c=main&amp;p=7&amp;v=display
+Wiki
+===
+This is a hidden wiki page.  The Master of Trivs must not know about this!
+
+Next meeting @ 16:00.  BYOB: bring your own bits.

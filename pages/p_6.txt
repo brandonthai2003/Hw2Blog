@@ -1,0 +1,9 @@
+Usefulness
+./index.php?c=main&amp;p=1&amp;v=display
+Triviality
+./index.php?c=main&amp;p=2&amp;v=display
+Reality
+./index.php?c=main&amp;p=7&amp;v=display
+Wiki
+===
+Something this wiki on triviality decidedly lacks.  Go back to reality if you want your usefulness, churl!

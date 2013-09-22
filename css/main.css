@@ -1,0 +1,69 @@
+body{
+    background-image: url("../resources/background.png");
+}
+#logo{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.top{
+    height:30px;
+    background-color:#eee;
+    display: block;
+}
+#login, #logout, #newEntry{
+    float:right;
+    border-style: solid;
+    border-width: 2px;
+    padding: 3px;
+}
+.pad{
+    padding-bottom: 15px;
+    padding-top: 15px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.center{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.right
+{
+    position:absolute;
+    right:0px;
+    width:300px;
+}
+div#recentBlog{
+    width:55%;
+    border-style: dashed;
+    background-color: white;
+    margin-left: 50px;
+}
+div#loginForm, div#comment, div#goBack, div#newBlogEntry, div#blogContent{
+    width:25%;
+    border-style: solid;
+    border-width: 1px;
+    background-color: white;
+    margin-bottom:25px;
+}
+div#blogContent{
+    width: 75%;
+}
+div#comment, div#newBlogEntry{
+    width:50%;
+}
+div#entryList{
+    display:inline;
+    border-style: dashed;
+    border-width: 1px;
+    background-color: white;
+    margin-right: 50px;
+    top:250px;
+}
+p#title{
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 20px;
+}
+p#warning{
+    color: red;
+}

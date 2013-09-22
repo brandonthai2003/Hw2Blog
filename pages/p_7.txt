@@ -1,0 +1,7 @@
+Wiki
+./index.php?c=main&amp;p=1&amp;v=display
+Triviality
+./index.php?c=main&amp;p=3&amp;v=display
+Master of Trivs
+===
+Wikis are a species of long-billed, stork-legged bird found throughout triviality.  The Master of Trivs is known to ride a gigantic wiki bred from a pure line of prehistoric saber-wikis.

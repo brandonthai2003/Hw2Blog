@@ -1,0 +1,7 @@
+Flexibility
+./index.php?c=main&amp;p=2&amp;v=display
+Reality
+./index.php?c=main&amp;p=3&amp;v=display
+Master of Trivs
+===
+A property of reality which does not exist in our world.  Everything is trivial.  All hail the Master of Trivs!

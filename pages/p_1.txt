@@ -1,0 +1,11 @@
+Kewl Blog
+./index.php?c=main&p=2&v=display
+Reality
+./index.php?c=main&p=3&v=display
+Master of Trivs
+./index.php?c=main&p=7&v=display
+Wiki
+===
+Welcome to Trivial Wiki.
+
+Triviality is real.  Triviality is our world.  There is no reality.  All hail the Master of Trivs!
